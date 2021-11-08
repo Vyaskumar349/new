@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Day-1-class</title>
+  </head>
+  <body>
+    <h1 id="" class="" >i am H1 Tag </h1>
+    <h2> i am H2 Tag</h2>
+    <h3> i am H3 Tag</h3>
+    <h4> i am H4 Tag</h4>
+    <h5> i am H5 Tag</h5>
+    <h6> i am H6 Tag</h6>
+    <p> i am pargraph Tag</p>
+    <strong>I am strong</strong>
+    <br>
+    (a + b)<sup>2</sup>
+    <br>
+    h<sub>2</sub>O
+    <hr>
+
+    <h3>Name:</h3> 
+    <hr>
+    <h3>Class:</h3>
+
+    <ol>
+      <li>list element 1</li>
+      <li>list element 2</li>
+      <li>list element 3</li>
+      <li>list element 4</li>
+      <li>list element 5</li>
+    </ol>
+    <ul>
+      <li>list element 1</li>
+      <li>list element 2</li>
+      <li>list element 3</li>
+      <li>List element 4</li>
+      <li>list element 5</li>
+    </ul>
+
+    <img
+      src="./download.jpeg"
+      alt="this is panda image"
+    >
+    
+
+    
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+TABLE
+<body>
+    <table width="100%">
+      <tr>
+        <th>Name</th>
+        <th>Class</th>
+        <th>Roll</th>
+        <th>Age</th>
+      </tr>
+      <tr>
+        <td>Shubham</td>
+        <td>10</td>
+        <td>1</td>
+        <td>20</td>
+      </tr>
+      <tr>
+        <td>Shivam</td>
+        <td>10</td>
+        <td>2</td>
+        <td>19</td>
+      </tr>
+    </table>
+    
+  </body>
